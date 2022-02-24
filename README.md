@@ -26,8 +26,8 @@
 
    |Description |Name |Value (fill in according to your own needs) |
    |:------: |:------: | :------------------------: |
-   |Link to package to be made |ROM_URL |https://hugeota.d.miui.com/21.5.31/miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip|
-   |Package name to be made |ZIP_NAME |miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip |
+   |Link to package to be made |ROM_URL |https://hugeota.d.miui.com/22.2.22/miui_BOMB_22.2.22_957b4a52f6_11.0.zip|
+   |Package name to be made |ZIP_NAME |miui_BOMB_22.2.22_957b4a52f6_11.0.zip |
    |Type of package to be made |OS_TYPE |miui |
    |Package name |REPACK_NAME|SGSI.zip |
 
