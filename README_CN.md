@@ -22,8 +22,8 @@
 
    |说明               |Name       |Value(按你自己的需求填写)                                                 |
    |:------:           |:------:   | :------------------------:                                               |
-   |待制作包链接       |ROM_URL    |https://hugeota.d.miui.com/21.5.31/miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip|
-   |待制作包名称       |ZIP_NAME   |miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip                                   |
+   |待制作包链接       |ROM_URL    |https://hugeota.d.miui.com/22.2.23/miui_TUCANA_22.2.23_08b6233438_11.0.zip|
+   |待制作包名称       |ZIP_NAME   |miui_TUCANA_22.2.23_08b6233438_11.0.zip                                   |
    |待制作包种类       |OS_TYPE    |miui                                                                      |
    |打包名称           |REPACK_NAME|SGSI.zip                                                                  |
 
