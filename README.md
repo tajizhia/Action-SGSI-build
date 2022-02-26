@@ -28,8 +28,8 @@
    |:------: |:------: | :------------------------: |
    |Link to package to be made |ROM_URL |https://hugeota.d.miui.com/22.2.23/miui_TUCANA_22.2.23_08b6233438_11.0.zip|
    |Package name to be made |ZIP_NAME |miui_TUCANA_22.2.23_08b6233438_11.0.zip|
-   |Type of package to be made |OS_TYPE |miui |
-   |Package name |REPACK_NAME|SGSI.zip |
+   |Type of package to be made |OS_TYPE |miui|
+   |Package name |REPACK_NAME|SI.zip|
 
 3. Start production
    
