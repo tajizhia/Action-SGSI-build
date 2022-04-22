@@ -6,13 +6,20 @@ cd $LOCALDIR
 systemdir=$1
 
 apps_dir="
+BuiltInPrintService
+MiAod
+MiShare
+Backup
+HybridPlatform
+NextPay
+TSMClient
+greenguard
 CameraTools
 Mipay
 MiuiBugReport
 Browser
 Calendar
 MiuiCamera
-MiuiGallery
 MiuiVideo
 Music
 QuickSearchBox
