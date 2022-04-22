@@ -10,6 +10,13 @@ CameraTools
 Mipay
 MiuiBugReport
 Browser
+greenguard
+HybridPlatform
+TSMClient
+NextPay
+Backup
+MiShare
+MiAod
 Calendar
 MiuiCamera
 MiuiGallery
